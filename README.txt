@@ -1,0 +1,1 @@
+Most of the project development was done in the lab repository and transferred to the coursework repository, usually weekly.
